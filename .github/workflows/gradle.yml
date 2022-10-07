@@ -16,6 +16,10 @@ on:
 permissions:
   contents: read
 
+
+env:
+  S3_BUCKET_NAME: be-0-appstew
+
 jobs:
   build:
 
