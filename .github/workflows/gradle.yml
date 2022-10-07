@@ -18,7 +18,7 @@ permissions:
 
 
 env:
-  S3_BUCKET_NAME: be-0-appstew
+  S3_BUCKET_NAME: be-108-appstew
 
 jobs:
   build:
